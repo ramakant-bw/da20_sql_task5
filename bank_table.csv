@@ -1,0 +1,100 @@
+bank_id,name,branch,address,ifsc_code,email,phone,funds
+2,State Bank of India,Kochi Branch 3,"Kochi Branch 3, Kochi, India",STAT9157,kochibranch3@statebankofindia.com,9123356685,31142762.33
+3,HDFC Bank,Nagpur Branch 4,"Nagpur Branch 4, Nagpur, India",HDFC4950,nagpurbranch4@hdfcbank.com,9507043345,88246812.06
+4,Bank of Baroda,Lucknow Branch 5,"Lucknow Branch 5, Lucknow, India",BANK8088,lucknowbranch5@bankofbaroda.com,9263801274,90153794.05
+5,IndusInd Bank,Chennai Branch 1,"Chennai Branch 1, Chennai, India",INDU6149,chennaibranch1@indusindbank.com,9275898293,19878570.68
+6,ICICI Bank,Guwahati Branch 2,"Guwahati Branch 2, Guwahati, India",ICIC5330,guwahatibranch2@icicibank.com,9134404371,42858137.06
+7,Kotak Mahindra Bank,Vadodara Branch 3,"Vadodara Branch 3, Vadodara, India",KOTA4765,vadodarabranch3@kotakmahindrabank.com,9434182686,99075828.14
+8,Canara Bank,Patna Branch 4,"Patna Branch 4, Patna, India",CANA4176,patnabranch4@canarabank.com,9121856110,76841064.61
+9,Axis Bank,Nagpur Branch 5,"Nagpur Branch 5, Nagpur, India",AXIS7910,nagpurbranch5@axisbank.com,9367534700,66719179.81
+10,Canara Bank,Jaipur Branch 1,"Jaipur Branch 1, Jaipur, India",CANA2423,jaipurbranch1@canarabank.com,9580512656,71296058.5
+11,State Bank of India,Mumbai Branch 2,"Mumbai Branch 2, Mumbai, India",STAT9814,mumbaibranch2@statebankofindia.com,9194197158,53024704.99
+12,Axis Bank,Pune Branch 3,"Pune Branch 3, Pune, India",AXIS6317,punebranch3@axisbank.com,9883492932,81315052.95
+13,Union Bank of India,Hyderabad Branch 4,"Hyderabad Branch 4, Hyderabad, India",UNIO8675,hyderabadbranch4@unionbankofindia.com,9271154719,39989659.56
+14,Kotak Mahindra Bank,Hyderabad Branch 5,"Hyderabad Branch 5, Hyderabad, India",KOTA1729,hyderabadbranch5@kotakmahindrabank.com,9881927045,17467923.74
+15,ICICI Bank,Nagpur Branch 1,"Nagpur Branch 1, Nagpur, India",ICIC6901,nagpurbranch1@icicibank.com,9288915402,60381013.03
+16,State Bank of India,Bengaluru Branch 2,"Bengaluru Branch 2, Bengaluru, India",STAT9507,bengalurubranch2@statebankofindia.com,9909346063,38040585.4
+17,Axis Bank,Visakhapatnam Branch 3,"Visakhapatnam Branch 3, Visakhapatnam, India",AXIS5069,visakhapatnambranch3@axisbank.com,9698228661,63594313.78
+18,HDFC Bank,Patna Branch 4,"Patna Branch 4, Patna, India",HDFC7618,patnabranch4@hdfcbank.com,9574113800,68081155.48
+19,Bank of Baroda,Lucknow Branch 5,"Lucknow Branch 5, Lucknow, India",BANK6255,lucknowbranch5@bankofbaroda.com,9264872023,10619039.15
+20,IndusInd Bank,Kochi Branch 1,"Kochi Branch 1, Kochi, India",INDU3465,kochibranch1@indusindbank.com,9695692124,87655411.63
+21,Axis Bank,Coimbatore Branch 2,"Coimbatore Branch 2, Coimbatore, India",AXIS5667,coimbatorebranch2@axisbank.com,9195279236,40320243.99
+22,Union Bank of India,Hyderabad Branch 3,"Hyderabad Branch 3, Hyderabad, India",UNIO2120,hyderabadbranch3@unionbankofindia.com,9979828476,31874436.26
+23,Punjab National Bank,Pune Branch 4,"Pune Branch 4, Pune, India",PUNJ7831,punebranch4@punjabnationalbank.com,9302869207,29927143.12
+24,Kotak Mahindra Bank,Pune Branch 5,"Pune Branch 5, Pune, India",KOTA5101,punebranch5@kotakmahindrabank.com,9728944113,57089488.58
+25,Punjab National Bank,Lucknow Branch 1,"Lucknow Branch 1, Lucknow, India",PUNJ3967,lucknowbranch1@punjabnationalbank.com,9608084095,62076358.3
+26,IndusInd Bank,Kolkata Branch 2,"Kolkata Branch 2, Kolkata, India",INDU7210,kolkatabranch2@indusindbank.com,9732923423,69983250.26
+27,ICICI Bank,Chennai Branch 3,"Chennai Branch 3, Chennai, India",ICIC7272,chennaibranch3@icicibank.com,9353483877,70993962.54
+28,Punjab National Bank,Hyderabad Branch 4,"Hyderabad Branch 4, Hyderabad, India",PUNJ5819,hyderabadbranch4@punjabnationalbank.com,9129581863,33228198
+29,IndusInd Bank,Indore Branch 5,"Indore Branch 5, Indore, India",INDU8560,indorebranch5@indusindbank.com,9909446629,93369981.01
+30,Kotak Mahindra Bank,Bengaluru Branch 1,"Bengaluru Branch 1, Bengaluru, India",KOTA3564,bengalurubranch1@kotakmahindrabank.com,9103008050,84743596.25
+31,Punjab National Bank,Indore Branch 2,"Indore Branch 2, Indore, India",PUNJ7670,indorebranch2@punjabnationalbank.com,9229837586,88887206.57
+32,Bank of Baroda,Pune Branch 3,"Pune Branch 3, Pune, India",BANK6283,punebranch3@bankofbaroda.com,9161179219,99010826.53
+33,HDFC Bank,Lucknow Branch 4,"Lucknow Branch 4, Lucknow, India",HDFC5946,lucknowbranch4@hdfcbank.com,9104520100,3322255.13
+34,ICICI Bank,Lucknow Branch 5,"Lucknow Branch 5, Lucknow, India",ICIC1861,lucknowbranch5@icicibank.com,9876695756,24141401.46
+35,ICICI Bank,Visakhapatnam Branch 1,"Visakhapatnam Branch 1, Visakhapatnam, India",ICIC5248,visakhapatnambranch1@icicibank.com,9262632043,44705017.97
+36,Bank of Baroda,Chennai Branch 2,"Chennai Branch 2, Chennai, India",BANK6742,chennaibranch2@bankofbaroda.com,9322427045,51481722.21
+37,ICICI Bank,Jaipur Branch 3,"Jaipur Branch 3, Jaipur, India",ICIC6774,jaipurbranch3@icicibank.com,9535193624,28433713.6
+38,Union Bank of India,Patna Branch 4,"Patna Branch 4, Patna, India",UNIO9095,patnabranch4@unionbankofindia.com,9766657131,21067335.87
+39,Canara Bank,Mumbai Branch 5,"Mumbai Branch 5, Mumbai, India",CANA7837,mumbaibranch5@canarabank.com,9900704777,70924046.28
+40,ICICI Bank,Chennai Branch 1,"Chennai Branch 1, Chennai, India",ICIC1748,chennaibranch1@icicibank.com,9530146219,67995385.65
+41,Canara Bank,Guwahati Branch 2,"Guwahati Branch 2, Guwahati, India",CANA3035,guwahatibranch2@canarabank.com,9675913156,17455859.43
+42,ICICI Bank,Hyderabad Branch 3,"Hyderabad Branch 3, Hyderabad, India",ICIC9716,hyderabadbranch3@icicibank.com,9742342750,57426180.19
+43,Axis Bank,Ahmedabad Branch 4,"Ahmedabad Branch 4, Ahmedabad, India",AXIS8838,ahmedabadbranch4@axisbank.com,9564414378,28061223.29
+44,IndusInd Bank,Kochi Branch 5,"Kochi Branch 5, Kochi, India",INDU2815,kochibranch5@indusindbank.com,9431608262,39568652.48
+45,Kotak Mahindra Bank,Bengaluru Branch 1,"Bengaluru Branch 1, Bengaluru, India",KOTA2593,bengalurubranch1@kotakmahindrabank.com,9177424666,26049365.67
+46,IndusInd Bank,Pune Branch 2,"Pune Branch 2, Pune, India",INDU2215,punebranch2@indusindbank.com,9961445935,85996566.32
+47,Bank of Baroda,Pune Branch 3,"Pune Branch 3, Pune, India",BANK8816,punebranch3@bankofbaroda.com,9217938894,7401807.1
+48,HDFC Bank,Guwahati Branch 4,"Guwahati Branch 4, Guwahati, India",HDFC2055,guwahatibranch4@hdfcbank.com,9286646774,67903002.39
+49,Bank of Baroda,Hyderabad Branch 5,"Hyderabad Branch 5, Hyderabad, India",BANK4324,hyderabadbranch5@bankofbaroda.com,9480642156,63902912.95
+50,IndusInd Bank,Chandigarh Branch 1,"Chandigarh Branch 1, Chandigarh, India",INDU8391,chandigarhbranch1@indusindbank.com,9194418070,60346685.62
+51,Kotak Mahindra Bank,Bengaluru Branch 2,"Bengaluru Branch 2, Bengaluru, India",KOTA1037,bengalurubranch2@kotakmahindrabank.com,9697823417,79014566.7
+52,HDFC Bank,Kochi Branch 3,"Kochi Branch 3, Kochi, India",HDFC1523,kochibranch3@hdfcbank.com,9691263948,87584859.96
+53,Punjab National Bank,Jaipur Branch 4,"Jaipur Branch 4, Jaipur, India",PUNJ9687,jaipurbranch4@punjabnationalbank.com,9207871275,9547602.1
+54,Axis Bank,Bhopal Branch 5,"Bhopal Branch 5, Bhopal, India",AXIS8924,bhopalbranch5@axisbank.com,9118758703,54776999.54
+55,Kotak Mahindra Bank,Visakhapatnam Branch 1,"Visakhapatnam Branch 1, Visakhapatnam, India",KOTA1444,visakhapatnambranch1@kotakmahindrabank.com,9693717489,15363753.74
+56,IndusInd Bank,Visakhapatnam Branch 2,"Visakhapatnam Branch 2, Visakhapatnam, India",INDU6154,visakhapatnambranch2@indusindbank.com,9988774439,93177164.14
+57,Union Bank of India,Hyderabad Branch 3,"Hyderabad Branch 3, Hyderabad, India",UNIO5600,hyderabadbranch3@unionbankofindia.com,9244489613,73181479.49
+58,Punjab National Bank,Mumbai Branch 4,"Mumbai Branch 4, Mumbai, India",PUNJ4634,mumbaibranch4@punjabnationalbank.com,9795817759,67867356.12
+59,Bank of Baroda,Bengaluru Branch 5,"Bengaluru Branch 5, Bengaluru, India",BANK9472,bengalurubranch5@bankofbaroda.com,9348111517,22498448.32
+60,Kotak Mahindra Bank,Vadodara Branch 1,"Vadodara Branch 1, Vadodara, India",KOTA7111,vadodarabranch1@kotakmahindrabank.com,9879263235,25068348.53
+61,State Bank of India,Jaipur Branch 2,"Jaipur Branch 2, Jaipur, India",STAT7294,jaipurbranch2@statebankofindia.com,9834764193,99605611.93
+62,Kotak Mahindra Bank,Patna Branch 3,"Patna Branch 3, Patna, India",KOTA3479,patnabranch3@kotakmahindrabank.com,9776959793,16128396.7
+63,Punjab National Bank,Coimbatore Branch 4,"Coimbatore Branch 4, Coimbatore, India",PUNJ6250,coimbatorebranch4@punjabnationalbank.com,9346750722,6514046.68
+64,HDFC Bank,Lucknow Branch 5,"Lucknow Branch 5, Lucknow, India",HDFC9578,lucknowbranch5@hdfcbank.com,9550932429,14005401.87
+65,IndusInd Bank,Kolkata Branch 1,"Kolkata Branch 1, Kolkata, India",INDU3069,kolkatabranch1@indusindbank.com,9327499122,70234786.48
+66,ICICI Bank,Vadodara Branch 2,"Vadodara Branch 2, Vadodara, India",ICIC4373,vadodarabranch2@icicibank.com,9716924123,49927098.59
+67,IndusInd Bank,Nagpur Branch 3,"Nagpur Branch 3, Nagpur, India",INDU1322,nagpurbranch3@indusindbank.com,9726843250,47933140.48
+68,Punjab National Bank,Patna Branch 4,"Patna Branch 4, Patna, India",PUNJ7445,patnabranch4@punjabnationalbank.com,9869606689,98084615.87
+69,Union Bank of India,Delhi Branch 5,"Delhi Branch 5, Delhi, India",UNIO6345,delhibranch5@unionbankofindia.com,9213453047,95054555.27
+70,ICICI Bank,Vadodara Branch 1,"Vadodara Branch 1, Vadodara, India",ICIC8225,vadodarabranch1@icicibank.com,9680809210,90719979.38
+71,Kotak Mahindra Bank,Delhi Branch 2,"Delhi Branch 2, Delhi, India",KOTA9674,delhibranch2@kotakmahindrabank.com,9758539485,7182184.56
+72,IndusInd Bank,Lucknow Branch 3,"Lucknow Branch 3, Lucknow, India",INDU4964,lucknowbranch3@indusindbank.com,9752798846,69987584.63
+73,Axis Bank,Ahmedabad Branch 4,"Ahmedabad Branch 4, Ahmedabad, India",AXIS6310,ahmedabadbranch4@axisbank.com,9354240480,85666864.77
+74,Punjab National Bank,Nagpur Branch 5,"Nagpur Branch 5, Nagpur, India",PUNJ5767,nagpurbranch5@punjabnationalbank.com,9259414890,38575646.12
+75,Punjab National Bank,Kochi Branch 1,"Kochi Branch 1, Kochi, India",PUNJ3338,kochibranch1@punjabnationalbank.com,9615512860,11292220.62
+76,IndusInd Bank,Lucknow Branch 2,"Lucknow Branch 2, Lucknow, India",INDU5564,lucknowbranch2@indusindbank.com,9176886131,35390982.5
+77,Kotak Mahindra Bank,Coimbatore Branch 3,"Coimbatore Branch 3, Coimbatore, India",KOTA9677,coimbatorebranch3@kotakmahindrabank.com,9975975365,18413408.17
+78,Canara Bank,Hyderabad Branch 4,"Hyderabad Branch 4, Hyderabad, India",CANA8790,hyderabadbranch4@canarabank.com,9174596528,8222079.79
+79,IndusInd Bank,Delhi Branch 5,"Delhi Branch 5, Delhi, India",INDU5663,delhibranch5@indusindbank.com,9486475287,30505775.41
+80,ICICI Bank,Visakhapatnam Branch 1,"Visakhapatnam Branch 1, Visakhapatnam, India",ICIC2684,visakhapatnambranch1@icicibank.com,9577978824,1551291.46
+81,Canara Bank,Pune Branch 2,"Pune Branch 2, Pune, India",CANA4527,punebranch2@canarabank.com,9103080049,6997383.29
+82,ICICI Bank,Kolkata Branch 3,"Kolkata Branch 3, Kolkata, India",ICIC4097,kolkatabranch3@icicibank.com,9468010892,77269379.28
+83,Punjab National Bank,Bengaluru Branch 4,"Bengaluru Branch 4, Bengaluru, India",PUNJ7380,bengalurubranch4@punjabnationalbank.com,9612691639,21916150.18
+84,State Bank of India,Ahmedabad Branch 5,"Ahmedabad Branch 5, Ahmedabad, India",STAT5752,ahmedabadbranch5@statebankofindia.com,9889300583,8556068.11
+85,Axis Bank,Kolkata Branch 1,"Kolkata Branch 1, Kolkata, India",AXIS6864,kolkatabranch1@axisbank.com,9175082757,71957137.56
+86,HDFC Bank,Guwahati Branch 2,"Guwahati Branch 2, Guwahati, India",HDFC8117,guwahatibranch2@hdfcbank.com,9471044124,76573907.54
+87,Canara Bank,Nagpur Branch 3,"Nagpur Branch 3, Nagpur, India",CANA6834,nagpurbranch3@canarabank.com,9519653544,81103090.14
+88,Bank of Baroda,Ahmedabad Branch 4,"Ahmedabad Branch 4, Ahmedabad, India",BANK2271,ahmedabadbranch4@bankofbaroda.com,9535955363,23223565.57
+89,Union Bank of India,Pune Branch 5,"Pune Branch 5, Pune, India",UNIO7030,punebranch5@unionbankofindia.com,9463642647,4969159.51
+90,ICICI Bank,Lucknow Branch 1,"Lucknow Branch 1, Lucknow, India",ICIC6024,lucknowbranch1@icicibank.com,9582524964,88257868.49
+91,Axis Bank,Indore Branch 2,"Indore Branch 2, Indore, India",AXIS9260,indorebranch2@axisbank.com,9139163563,37528019.39
+92,Kotak Mahindra Bank,Patna Branch 3,"Patna Branch 3, Patna, India",KOTA2473,patnabranch3@kotakmahindrabank.com,9127874324,8919492.39
+93,Axis Bank,Kochi Branch 4,"Kochi Branch 4, Kochi, India",AXIS4278,kochibranch4@axisbank.com,9180632248,95231453.19
+94,Union Bank of India,Chennai Branch 5,"Chennai Branch 5, Chennai, India",UNIO6870,chennaibranch5@unionbankofindia.com,9414333119,79818615
+95,Union Bank of India,Delhi Branch 1,"Delhi Branch 1, Delhi, India",UNIO7592,delhibranch1@unionbankofindia.com,9680665495,52602244.51
+96,Kotak Mahindra Bank,Coimbatore Branch 2,"Coimbatore Branch 2, Coimbatore, India",KOTA1524,coimbatorebranch2@kotakmahindrabank.com,9231092144,9761488.72
+97,Punjab National Bank,Bengaluru Branch 3,"Bengaluru Branch 3, Bengaluru, India",PUNJ4507,bengalurubranch3@punjabnationalbank.com,9589487359,46430214.06
+98,Axis Bank,Lucknow Branch 4,"Lucknow Branch 4, Lucknow, India",AXIS9885,lucknowbranch4@axisbank.com,9630647655,27590384.59
+99,Canara Bank,Mumbai Branch 5,"Mumbai Branch 5, Mumbai, India",CANA4438,mumbaibranch5@canarabank.com,9928209898,33837004.21
+100,Axis Bank,Vadodara Branch 1,"Vadodara Branch 1, Vadodara, India",AXIS3387,vadodarabranch1@axisbank.com,9714907575,70226538.51
